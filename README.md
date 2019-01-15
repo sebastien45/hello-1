@@ -1,10 +1,11 @@
-# hello-1
-premier repo pour debuter  
-ajouter premiere modification  
-deuxieme modification + config ssh  
-troisieme modification dans master  
-ligne4 dans master
-ligne5 avec GitHubDesktopClient
-
-nouvelle branche readme-edits
-2em modification dans readme-edits
+# annu.py
+script d'interrogation un annuaire ldap
+ * support la recherche dans
+    - prenom, nom ou mail
+    - groupes
+    - limite a une ou spécifique
+  * dépends des modules python
+    - python-ldap
+    - python-unidecode
+ 
+ 
